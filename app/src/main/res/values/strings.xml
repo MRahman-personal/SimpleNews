@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SimpleNews</string>
+    <string name="tab_text_1">Headlines</string>
+    <string name="tab_text_2">Business</string>
+    <string name="tab_text_3">Technology</string>
+    <string name="tab_text_4">Science</string>
+    <string name="tab_text_5">Health</string>
+    <string name="tab_text_6">Entertainment</string>
+    <string name="tab_text_7">Sports</string>
+    <string name="tab_text_8">Saved</string>
+</resources>
